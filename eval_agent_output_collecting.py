@@ -184,5 +184,10 @@ if __name__ == "__main__":
     benchmark_path = "./eval/eval_dataset_full.json"
     collect_agent_outputs(benchmark_path)
 
+    # testcase_initial_setup()
+
+    # mem = ''
+    # print(mem)
+
 
     
